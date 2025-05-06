@@ -1,8 +1,8 @@
 [
 	{
 		"id": "1",
-		"name": "TechNova",
-		"logo": "https://example.com/logos/technova.png",
+		"name": "Technology First",
+		"logo": "https://i.ibb.co.com/wZGLSWwD/Technology-First-preview-mobile.jpg",
 		"location": "San Francisco, CA",
 		"website": "https://technova.com",
 		"industry": "Software Development",
@@ -10,7 +10,7 @@
 			{
 				"id": "job-001",
 				"title": "Frontend Developer",
-				"bannerImage": "https://example.com/banners/frontend.jpg",
+				"bannerImage": "https://i.ibb.co.com/tTbwGFFs/we-are-hiring-job-vacancy-social-media-banner-instagram-post-template-120329-5217.jpg",
 				"location": "San Francisco, CA",
 				"salary": "$90,000 - $120,000",
 				"jobType": "Full-time",
@@ -26,7 +26,7 @@
 			{
 				"id": "job-002",
 				"title": "Backend Developer",
-				"bannerImage": "https://example.com/banners/backend.jpg",
+				"bannerImage": "https://i.ibb.co.com/nMYTcQ0J/we-are-hiring-job-vacancy-social-media-banner-instagram-post-template-106176-4361.jpg",
 				"location": "Remote",
 				"salary": "$95,000 - $125,000",
 				"jobType": "Full-time",
@@ -42,7 +42,7 @@
 			{
 				"id": "job-003",
 				"title": "UI/UX Designer",
-				"bannerImage": "https://example.com/banners/uiux.jpg",
+				"bannerImage": "https://i.ibb.co.com/p6Fj8pF3/gradient-hiring-poster-template-23-2150127195.jpg				",
 				"location": "San Francisco, CA",
 				"salary": "$70,000 - $95,000",
 				"jobType": "Full-time",
@@ -59,8 +59,8 @@
 	},
 	{
 		"id": "2",
-		"name": "DataSphere",
-		"logo": "https://example.com/logos/datasphere.png",
+		"name": "Stempathy",
+		"logo": "https://i.ibb.co.com/4wZ72nHp/stempathy-logo-design-preview-mobile.jpg",
 		"location": "New York, NY",
 		"website": "https://datasphere.io",
 		"industry": "Data Analytics",
@@ -68,7 +68,7 @@
 			{
 				"id": "job-004",
 				"title": "Data Scientist",
-				"bannerImage": "https://example.com/banners/datascientist.jpg",
+				"bannerImage": "https://i.ibb.co.com/p6Fj8pF3/gradient-hiring-poster-template-23-2150127195.jpg",
 				"location": "New York, NY",
 				"salary": "$110,000 - $140,000",
 				"jobType": "Full-time",
@@ -84,7 +84,8 @@
 			{
 				"id": "job-005",
 				"title": "Data Engineer",
-				"bannerImage": "https://example.com/banners/dataengineer.jpg",
+				"bannerImage": "https://i.ibb.co.com/p6Fj8pF3/gradient-hiring-poster-template-23-2150127195.jpg",
+
 				"location": "Remote",
 				"salary": "$100,000 - $130,000",
 				"jobType": "Full-time",
@@ -100,7 +101,8 @@
 			{
 				"id": "job-006",
 				"title": "Business Analyst",
-				"bannerImage": "https://example.com/banners/businessanalyst.jpg",
+				"bannerImage": "https://i.ibb.co.com/p6Fj8pF3/gradient-hiring-poster-template-23-2150127195.jpg",
+
 				"location": "New York, NY",
 				"salary": "$80,000 - $100,000",
 				"jobType": "Full-time",
@@ -117,16 +119,17 @@
 	},
 	{
 		"id": "3",
-		"name": "GreenEnergy",
-		"logo": "https://example.com/logos/greenenergy.png",
+		"name": "Stripe",
+		"logo": "https://i.ibb.co.com/MrS2qTK/1-preview-mobile-3.jpg",
 		"location": "Austin, TX",
 		"website": "https://greenenergy.com",
-		"industry": "Renewable Energy",
+		"industry": "Tech Company",
 		"jobs": [
 			{
 				"id": "job-007",
 				"title": "Solar Engineer",
-				"bannerImage": "https://example.com/banners/solarengineer.jpg",
+				"bannerImage": "https://i.ibb.co.com/p6Fj8pF3/gradient-hiring-poster-template-23-2150127195.jpg",
+
 				"location": "Austin, TX",
 				"salary": "$85,000 - $110,000",
 				"jobType": "Full-time",
@@ -175,8 +178,8 @@
 	},
 	{
 		"id": "4",
-		"name": "HealthPlus",
-		"logo": "https://example.com/logos/healthplus.png",
+		"name": "Widefix",
+		"logo": "https://i.ibb.co.com/gZvr16db/1-preview-mobile-2.jpg",
 		"location": "Boston, MA",
 		"website": "https://healthplus.org",
 		"industry": "Healthcare",
@@ -184,7 +187,7 @@
 			{
 				"id": "job-010",
 				"title": "Registered Nurse",
-				"bannerImage": "https://example.com/banners/nurse.jpg",
+				"bannerImage": "https://i.ibb.co.com/N2dKR1BC/social-media-feed-instagram-we-are-hiring-621600-54.jpg",
 				"location": "Boston, MA",
 				"salary": "$70,000 - $90,000",
 				"jobType": "Full-time",
@@ -200,7 +203,7 @@
 			{
 				"id": "job-011",
 				"title": "Medical Researcher",
-				"bannerImage": "https://example.com/banners/researcher.jpg",
+				"bannerImage": "https://i.ibb.co.com/N2dKR1BC/social-media-feed-instagram-we-are-hiring-621600-54.jpg",
 				"location": "Boston, MA",
 				"salary": "$90,000 - $120,000",
 				"jobType": "Full-time",
@@ -216,7 +219,7 @@
 			{
 				"id": "job-012",
 				"title": "Healthcare Administrator",
-				"bannerImage": "https://example.com/banners/administrator.jpg",
+				"bannerImage": "https://i.ibb.co.com/ymbj7wFF/we-are-hiring-job-vacancy-social-media-banner-instagram-post-template-106176-4369.jpg",
 				"location": "Hybrid",
 				"salary": "$85,000 - $110,000",
 				"jobType": "Full-time",
@@ -233,8 +236,8 @@
 	},
 	{
 		"id": "5",
-		"name": "FinEdge",
-		"logo": "https://example.com/logos/finedge.png",
+		"name": "Friends Of Aphasia",
+		"logo": "https://i.ibb.co.com/sdNgJDgc/Friends-content-preview-mobile.jpg",
 		"location": "Chicago, IL",
 		"website": "https://finedge.com",
 		"industry": "Financial Services",
@@ -274,7 +277,7 @@
 			{
 				"id": "job-015",
 				"title": "Risk Manager",
-				"bannerImage": "https://example.com/banners/riskmanager.jpg",
+				"bannerImage": "https://i.ibb.co.com/s9dXrpX8/people-applying-vacant-job-business-competition-available-vacancy-advertisement-position-application.jpg",
 				"location": "Remote",
 				"salary": "$95,000 - $125,000",
 				"jobType": "Full-time",
@@ -291,8 +294,8 @@
 	},
 	{
 		"id": "6",
-		"name": "EduFuture",
-		"logo": "https://example.com/logos/edufuture.png",
+		"name": "General Electric",
+		"bannerImage": "https://i.ibb.co.com/s9dXrpX8/people-applying-vacant-job-business-competition-available-vacancy-advertisement-position-application.jpg",
 		"location": "Seattle, WA",
 		"website": "https://edufuture.edu",
 		"industry": "Education Technology",
@@ -316,7 +319,7 @@
 			{
 				"id": "job-017",
 				"title": "Learning Experience Designer",
-				"bannerImage": "https://example.com/banners/lxd.jpg",
+				"bannerImage": "https://i.ibb.co.com/s9dXrpX8/people-applying-vacant-job-business-competition-available-vacancy-advertisement-position-application.jpg",
 				"location": "Seattle, WA",
 				"salary": "$75,000 - $95,000",
 				"jobType": "Full-time",
@@ -332,7 +335,7 @@
 			{
 				"id": "job-018",
 				"title": "Educational Data Analyst",
-				"bannerImage": "https://example.com/banners/eddata.jpg",
+				"bannerImage": "https://i.ibb.co.com/23wkdHFL/we-are-hiring-job-vacancy-social-media-banner-instagram-post-template-120329-5243.jpg",
 				"location": "Hybrid",
 				"salary": "$80,000 - $100,000",
 				"jobType": "Full-time",
@@ -349,8 +352,8 @@
 	},
 	{
 		"id": "7",
-		"name": "RetailHub",
-		"logo": "https://example.com/logos/retailhub.png",
+		"name": "Dell",
+		"logo": "https://i.ibb.co.com/vCLN4qBm/1-preview-mobile.jpg",
 		"location": "Dallas, TX",
 		"website": "https://retailhub.com",
 		"industry": "Retail",
@@ -358,7 +361,7 @@
 			{
 				"id": "job-019",
 				"title": "Store Manager",
-				"bannerImage": "https://example.com/banners/storemanager.jpg",
+				"bannerImage": "https://i.ibb.co.com/tp851bpy/we-are-hiring-job-vacancy-social-media-banner-instagram-post-template-120329-5198.jpg",
 				"location": "Dallas, TX",
 				"salary": "$60,000 - $75,000",
 				"jobType": "Full-time",
@@ -390,7 +393,7 @@
 			{
 				"id": "job-021",
 				"title": "Buyer",
-				"bannerImage": "https://example.com/banners/buyer.jpg",
+				"bannerImage": "https://i.ibb.co.com/zHbvwCPf/gradient-hiring-poster-flyer-template-23-2150137321.jpg",
 				"location": "Dallas, TX",
 				"salary": "$70,000 - $90,000",
 				"jobType": "Full-time",
@@ -405,10 +408,11 @@
 			}
 		]
 	},
+
 	{
 		"id": "8",
-		"name": "MediaVerse",
-		"logo": "https://example.com/logos/mediaverse.png",
+		"name": "Hybridium",
+		"logo": "https://i.ibb.co.com/pBz89wkH/Hybridium-image1-preview-mobile.jpg",
 		"location": "Los Angeles, CA",
 		"website": "https://mediaverse.com",
 		"industry": "Media & Entertainment",
@@ -416,7 +420,8 @@
 			{
 				"id": "job-022",
 				"title": "Video Producer",
-				"bannerImage": "https://example.com/banners/producer.jpg",
+				"bannerImage": "https://i.ibb.co.com/cXw4JcC6/illustrated-woman-being-intern-company-23-2148726151.jpg",
+
 				"location": "Los Angeles, CA",
 				"salary": "$75,000 - $100,000",
 				"jobType": "Full-time",
@@ -432,7 +437,8 @@
 			{
 				"id": "job-023",
 				"title": "Social Media Manager",
-				"bannerImage": "https://example.com/banners/socialmedia.jpg",
+				"bannerImage": "https://i.ibb.co.com/cXw4JcC6/illustrated-woman-being-intern-company-23-2148726151.jpg",
+
 				"location": "Remote",
 				"salary": "$60,000 - $80,000",
 				"jobType": "Full-time",
@@ -448,7 +454,7 @@
 			{
 				"id": "job-024",
 				"title": "Graphic Designer",
-				"bannerImage": "https://example.com/banners/designer.jpg",
+				"bannerImage": "https://i.ibb.co.com/cXw4JcC6/illustrated-woman-being-intern-company-23-2148726151.jpg",
 				"location": "Hybrid",
 				"salary": "$65,000 - $85,000",
 				"jobType": "Full-time",
